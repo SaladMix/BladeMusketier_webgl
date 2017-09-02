@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "MbladeWebGL.data.unityweb",
+"asmCodeUrl": "MbladeWebGL.asm.code.unityweb",
+"asmMemoryUrl": "MbladeWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "MbladeWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

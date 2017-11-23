@@ -4,6 +4,8 @@
 "asmCodeUrl": "MbladeWebGL.asm.code.unityweb",
 "asmMemoryUrl": "MbladeWebGL.asm.memory.unityweb",
 "asmFrameworkUrl": "MbladeWebGL.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
+"backgroundColor": "#231F20"
 }
